@@ -1,0 +1,26 @@
+9) What are the benefits of data field encapsulation?
+   ->Hiding data: Users will have no idea how classes are being implemented or stored.
+     More flexibility: Enables you to set variables as read or write-only.
+     Easy to reuse: With encapsulation, it's easy to change and adapt to new requirements.
+
+
+10) public class Test {
+                  private int id;
+
+                 public Test (int id)   -> -> should implement the constructor 
+                  {
+                     this.id = id;
+                  }                      
+
+
+
+                  public void m1() {  
+                      this.id = 45;
+                                   }
+                  public static void m2() {      -> should be static method because the calling through the class
+                     Test.id = 45;
+                                   }
+
+                       }
+  
+ 
