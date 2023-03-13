@@ -1,0 +1,18 @@
+Q6)
+
+a-> A's no_Arg constructor is ivoked
+
+b->calling the superclass constructor didn't mention 
+   should use this in the first line in the constructor :
+   super(int x);
+
+
+Q7) line 6-> this.radius = radius;
+    line 20-> public B .....
+    line 21-> super(double radius)
+    line 22-> this.length=length;
+    
+Q8) overriden
+
+Q9)no overloading
+
