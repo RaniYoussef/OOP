@@ -1,0 +1,36 @@
+/*Write the following method that returns the maximum value in an ArrayList of integers. The method
+returns null if the list is null or the list size is 0.
+
+public static Integer max(ArrayList<Integer> list)*/
+
+
+
+public static Integer max(ArrayList<Integer> list)
+{
+              
+      int x =list.size();
+
+      if (x == 0)
+         
+          return "\0";
+      
+       else 
+           retuen list.max();      
+
+}
+
+/*3. Write the following method that sorts an ArrayList of numbers:
+public static void sort(ArrayList<Integer> list)*/
+
+public static void sort(ArrayList<Integer> list)
+{
+   
+  list.sort();
+
+   return list;
+}
+
+
+
+
+
