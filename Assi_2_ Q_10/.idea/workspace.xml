@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee6a90f2-b29c-41e2-b840-9b4dfeb3523d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/Assigment3-Q6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/src/GroceryItemOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/src/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Assigment3-Q6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/Q2&amp;Q3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/q4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/q4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assigment 3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee6a90f2-b29c-41e2-b840-9b4dfeb3523d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +39,21 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Assi_2_ Q_10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Assi_2_ Q_10" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
